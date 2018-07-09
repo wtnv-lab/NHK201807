@@ -22,7 +22,7 @@
 			</IconStyle>
 		</Style>
 		<Icon>
-			<href>02-tiles/02_$[level]_$[x]_$[y].jpg</href>
+			<href>https://wtnv-lab.github.io/NHK201807/02-tiles/02_$[level]_$[x]_$[y].jpg</href>
 		</Icon>
 		<ViewVolume>
 			<leftFov>-60</leftFov>
@@ -60,7 +60,7 @@
 			</IconStyle>
 		</Style>
 		<Icon>
-			<href>03-tiles/03_$[level]_$[x]_$[y].jpg</href>
+			<href>https://wtnv-lab.github.io/NHK201807/03-tiles/03_$[level]_$[x]_$[y].jpg</href>
 		</Icon>
 		<ViewVolume>
 			<leftFov>-60</leftFov>
@@ -98,7 +98,7 @@
 			</IconStyle>
 		</Style>
 		<Icon>
-			<href>04-tiles/04_$[level]_$[x]_$[y].jpg</href>
+			<href>https://wtnv-lab.github.io/NHK201807/04-tiles/04_$[level]_$[x]_$[y].jpg</href>
 		</Icon>
 		<ViewVolume>
 			<leftFov>-60</leftFov>
@@ -136,7 +136,7 @@
 			</IconStyle>
 		</Style>
 		<Icon>
-			<href>05-tiles/05_$[level]_$[x]_$[y].jpg</href>
+			<href>https://wtnv-lab.github.io/NHK201807/05-tiles/05_$[level]_$[x]_$[y].jpg</href>
 		</Icon>
 		<ViewVolume>
 			<leftFov>-60</leftFov>
@@ -174,7 +174,7 @@
 			</IconStyle>
 		</Style>
 		<Icon>
-			<href>06-tiles/06_$[level]_$[x]_$[y].jpg</href>
+			<href>https://wtnv-lab.github.io/NHK201807/06-tiles/06_$[level]_$[x]_$[y].jpg</href>
 		</Icon>
 		<ViewVolume>
 			<leftFov>-60</leftFov>
@@ -212,7 +212,7 @@
 			</IconStyle>
 		</Style>
 		<Icon>
-			<href>07-tiles/07_$[level]_$[x]_$[y].jpg</href>
+			<href>https://wtnv-lab.github.io/NHK201807/07-tiles/07_$[level]_$[x]_$[y].jpg</href>
 		</Icon>
 		<ViewVolume>
 			<leftFov>-60</leftFov>
@@ -250,7 +250,7 @@
 			</IconStyle>
 		</Style>
 		<Icon>
-			<href>08-tiles/08_$[level]_$[x]_$[y].jpg</href>
+			<href>https://wtnv-lab.github.io/NHK201807/08-tiles/08_$[level]_$[x]_$[y].jpg</href>
 		</Icon>
 		<ViewVolume>
 			<leftFov>-60</leftFov>
@@ -288,7 +288,7 @@
 			</IconStyle>
 		</Style>
 		<Icon>
-			<href>09-tiles/09_$[level]_$[x]_$[y].jpg</href>
+			<href>https://wtnv-lab.github.io/NHK201807/09-tiles/09_$[level]_$[x]_$[y].jpg</href>
 		</Icon>
 		<ViewVolume>
 			<leftFov>-60</leftFov>
@@ -326,7 +326,7 @@
 			</IconStyle>
 		</Style>
 		<Icon>
-			<href>11-tiles/11_$[level]_$[x]_$[y].jpg</href>
+			<href>https://wtnv-lab.github.io/NHK201807/11-tiles/11_$[level]_$[x]_$[y].jpg</href>
 		</Icon>
 		<ViewVolume>
 			<leftFov>-60</leftFov>
@@ -364,7 +364,7 @@
 			</IconStyle>
 		</Style>
 		<Icon>
-			<href>12-tiles/12_$[level]_$[x]_$[y].jpg</href>
+			<href>https://wtnv-lab.github.io/NHK201807/12-tiles/12_$[level]_$[x]_$[y].jpg</href>
 		</Icon>
 		<ViewVolume>
 			<leftFov>-60</leftFov>
@@ -402,7 +402,7 @@
 			</IconStyle>
 		</Style>
 		<Icon>
-			<href>12a-tiles/12a_$[level]_$[x]_$[y].jpg</href>
+			<href>https://wtnv-lab.github.io/NHK201807/12a-tiles/12a_$[level]_$[x]_$[y].jpg</href>
 		</Icon>
 		<ViewVolume>
 			<leftFov>-60</leftFov>
@@ -440,7 +440,7 @@
 			</IconStyle>
 		</Style>
 		<Icon>
-			<href>38-tiles/38_$[level]_$[x]_$[y].jpg</href>
+			<href>https://wtnv-lab.github.io/NHK201807/38-tiles/38_$[level]_$[x]_$[y].jpg</href>
 		</Icon>
 		<ViewVolume>
 			<leftFov>-60</leftFov>
@@ -478,7 +478,7 @@
 			</IconStyle>
 		</Style>
 		<Icon>
-			<href>39-tiles/39_$[level]_$[x]_$[y].jpg</href>
+			<href>https://wtnv-lab.github.io/NHK201807/39-tiles/39_$[level]_$[x]_$[y].jpg</href>
 		</Icon>
 		<ViewVolume>
 			<leftFov>-60</leftFov>
@@ -516,7 +516,7 @@
 			</IconStyle>
 		</Style>
 		<Icon>
-			<href>40-tiles/40_$[level]_$[x]_$[y].jpg</href>
+			<href>https://wtnv-lab.github.io/NHK201807/40-tiles/40_$[level]_$[x]_$[y].jpg</href>
 		</Icon>
 		<ViewVolume>
 			<leftFov>-60</leftFov>
@@ -554,7 +554,7 @@
 			</IconStyle>
 		</Style>
 		<Icon>
-			<href>41-tiles/41_$[level]_$[x]_$[y].jpg</href>
+			<href>https://wtnv-lab.github.io/NHK201807/41-tiles/41_$[level]_$[x]_$[y].jpg</href>
 		</Icon>
 		<ViewVolume>
 			<leftFov>-60</leftFov>
@@ -592,7 +592,7 @@
 			</IconStyle>
 		</Style>
 		<Icon>
-			<href>42-tiles/42_$[level]_$[x]_$[y].jpg</href>
+			<href>https://wtnv-lab.github.io/NHK201807/42-tiles/42_$[level]_$[x]_$[y].jpg</href>
 		</Icon>
 		<ViewVolume>
 			<leftFov>-60</leftFov>
@@ -630,7 +630,7 @@
 			</IconStyle>
 		</Style>
 		<Icon>
-			<href>43-tiles/43_$[level]_$[x]_$[y].jpg</href>
+			<href>https://wtnv-lab.github.io/NHK201807/43-tiles/43_$[level]_$[x]_$[y].jpg</href>
 		</Icon>
 		<ViewVolume>
 			<leftFov>-60</leftFov>
@@ -668,7 +668,7 @@
 			</IconStyle>
 		</Style>
 		<Icon>
-			<href>44-tiles/44_$[level]_$[x]_$[y].jpg</href>
+			<href>https://wtnv-lab.github.io/NHK201807/44-tiles/44_$[level]_$[x]_$[y].jpg</href>
 		</Icon>
 		<ViewVolume>
 			<leftFov>-60</leftFov>
@@ -706,7 +706,7 @@
 			</IconStyle>
 		</Style>
 		<Icon>
-			<href>45-tiles/45_$[level]_$[x]_$[y].jpg</href>
+			<href>https://wtnv-lab.github.io/NHK201807/45-tiles/45_$[level]_$[x]_$[y].jpg</href>
 		</Icon>
 		<ViewVolume>
 			<leftFov>-60</leftFov>
@@ -744,7 +744,7 @@
 			</IconStyle>
 		</Style>
 		<Icon>
-			<href>65-tiles/65_$[level]_$[x]_$[y].jpg</href>
+			<href>https://wtnv-lab.github.io/NHK201807/65-tiles/65_$[level]_$[x]_$[y].jpg</href>
 		</Icon>
 		<ViewVolume>
 			<leftFov>-60</leftFov>
@@ -782,7 +782,7 @@
 			</IconStyle>
 		</Style>
 		<Icon>
-			<href>66-tiles/66_$[level]_$[x]_$[y].jpg</href>
+			<href>https://wtnv-lab.github.io/NHK201807/66-tiles/66_$[level]_$[x]_$[y].jpg</href>
 		</Icon>
 		<ViewVolume>
 			<leftFov>-60</leftFov>
@@ -820,7 +820,7 @@
 			</IconStyle>
 		</Style>
 		<Icon>
-			<href>67-tiles/67_$[level]_$[x]_$[y].jpg</href>
+			<href>https://wtnv-lab.github.io/NHK201807/67-tiles/67_$[level]_$[x]_$[y].jpg</href>
 		</Icon>
 		<ViewVolume>
 			<leftFov>-60</leftFov>
@@ -858,7 +858,7 @@
 			</IconStyle>
 		</Style>
 		<Icon>
-			<href>68-tiles/68_$[level]_$[x]_$[y].jpg</href>
+			<href>https://wtnv-lab.github.io/NHK201807/68-tiles/68_$[level]_$[x]_$[y].jpg</href>
 		</Icon>
 		<ViewVolume>
 			<leftFov>-60</leftFov>
