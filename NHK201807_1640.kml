@@ -16,9 +16,9 @@
 			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		</Camera>
 		<Style>
-			<IconStyle>
+			<IconStyle><scale>2</scale>
 				<Icon>
-					<href>http://maps.google.com/mapfiles/kml/shapes/camera.png</href>
+					<href>https://wtnv-lab.github.io/NHK201807/icons/02.jpg</href>
 				</Icon>
 			</IconStyle>
 		</Style>
@@ -56,9 +56,9 @@
 			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		</Camera>
 		<Style>
-			<IconStyle>
+			<IconStyle><scale>2</scale>
 				<Icon>
-					<href>http://maps.google.com/mapfiles/kml/shapes/camera.png</href>
+					<href>https://wtnv-lab.github.io/NHK201807/icons/04.jpg</href>
 				</Icon>
 			</IconStyle>
 		</Style>
@@ -96,9 +96,9 @@
 			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		</Camera>
 		<Style>
-			<IconStyle>
+			<IconStyle><scale>2</scale>
 				<Icon>
-					<href>http://maps.google.com/mapfiles/kml/shapes/camera.png</href>
+					<href>https://wtnv-lab.github.io/NHK201807/icons/11.jpg</href>
 				</Icon>
 			</IconStyle>
 		</Style>
@@ -136,9 +136,9 @@
 			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		</Camera>
 		<Style>
-			<IconStyle>
+			<IconStyle><scale>2</scale>
 				<Icon>
-					<href>http://maps.google.com/mapfiles/kml/shapes/camera.png</href>
+					<href>https://wtnv-lab.github.io/NHK201807/icons/12.jpg</href>
 				</Icon>
 			</IconStyle>
 		</Style>
@@ -176,9 +176,9 @@
 			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		</Camera>
 		<Style>
-			<IconStyle>
+			<IconStyle><scale>2</scale>
 				<Icon>
-					<href>http://maps.google.com/mapfiles/kml/shapes/camera.png</href>
+					<href>https://wtnv-lab.github.io/NHK201807/icons/12a.jpg</href>
 				</Icon>
 			</IconStyle>
 		</Style>
@@ -216,9 +216,9 @@
 			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		</Camera>
 		<Style>
-			<IconStyle>
+			<IconStyle><scale>2</scale>
 				<Icon>
-					<href>http://maps.google.com/mapfiles/kml/shapes/camera.png</href>
+					<href>https://wtnv-lab.github.io/NHK201807/icons/68.jpg</href>
 				</Icon>
 			</IconStyle>
 		</Style>
@@ -256,9 +256,9 @@
 			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		</Camera>
 		<Style>
-			<IconStyle>
+			<IconStyle><scale>2</scale>
 				<Icon>
-					<href>http://maps.google.com/mapfiles/kml/shapes/camera.png</href>
+					<href>https://wtnv-lab.github.io/NHK201807/icons/67.jpg</href>
 				</Icon>
 			</IconStyle>
 		</Style>
@@ -296,9 +296,9 @@
 			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		</Camera>
 		<Style>
-			<IconStyle>
+			<IconStyle><scale>2</scale>
 				<Icon>
-					<href>http://maps.google.com/mapfiles/kml/shapes/camera.png</href>
+					<href>https://wtnv-lab.github.io/NHK201807/icons/65.jpg</href>
 				</Icon>
 			</IconStyle>
 		</Style>
@@ -336,9 +336,9 @@
 			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		</Camera>
 		<Style>
-			<IconStyle>
+			<IconStyle><scale>2</scale>
 				<Icon>
-					<href>http://maps.google.com/mapfiles/kml/shapes/camera.png</href>
+					<href>https://wtnv-lab.github.io/NHK201807/icons/03.jpg</href>
 				</Icon>
 			</IconStyle>
 		</Style>
@@ -376,9 +376,9 @@
 			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		</Camera>
 		<Style>
-			<IconStyle>
+			<IconStyle><scale>2</scale>
 				<Icon>
-					<href>http://maps.google.com/mapfiles/kml/shapes/camera.png</href>
+					<href>https://wtnv-lab.github.io/NHK201807/icons/05.jpg</href>
 				</Icon>
 			</IconStyle>
 		</Style>
@@ -416,9 +416,9 @@
 			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		</Camera>
 		<Style>
-			<IconStyle>
+			<IconStyle><scale>2</scale>
 				<Icon>
-					<href>http://maps.google.com/mapfiles/kml/shapes/camera.png</href>
+					<href>https://wtnv-lab.github.io/NHK201807/icons/06.jpg</href>
 				</Icon>
 			</IconStyle>
 		</Style>
@@ -456,9 +456,9 @@
 			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		</Camera>
 		<Style>
-			<IconStyle>
+			<IconStyle><scale>2</scale>
 				<Icon>
-					<href>http://maps.google.com/mapfiles/kml/shapes/camera.png</href>
+					<href>https://wtnv-lab.github.io/NHK201807/icons/07.jpg</href>
 				</Icon>
 			</IconStyle>
 		</Style>
@@ -496,9 +496,9 @@
 			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		</Camera>
 		<Style>
-			<IconStyle>
+			<IconStyle><scale>2</scale>
 				<Icon>
-					<href>http://maps.google.com/mapfiles/kml/shapes/camera.png</href>
+					<href>https://wtnv-lab.github.io/NHK201807/icons/08.jpg</href>
 				</Icon>
 			</IconStyle>
 		</Style>
@@ -536,9 +536,9 @@
 			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		</Camera>
 		<Style>
-			<IconStyle>
+			<IconStyle><scale>2</scale>
 				<Icon>
-					<href>http://maps.google.com/mapfiles/kml/shapes/camera.png</href>
+					<href>https://wtnv-lab.github.io/NHK201807/icons/09.jpg</href>
 				</Icon>
 			</IconStyle>
 		</Style>
@@ -576,9 +576,9 @@
 			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		</Camera>
 		<Style>
-			<IconStyle>
+			<IconStyle><scale>2</scale>
 				<Icon>
-					<href>http://maps.google.com/mapfiles/kml/shapes/camera.png</href>
+					<href>https://wtnv-lab.github.io/NHK201807/icons/38.jpg</href>
 				</Icon>
 			</IconStyle>
 		</Style>
@@ -616,9 +616,9 @@
 			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		</Camera>
 		<Style>
-			<IconStyle>
+			<IconStyle><scale>2</scale>
 				<Icon>
-					<href>http://maps.google.com/mapfiles/kml/shapes/camera.png</href>
+					<href>https://wtnv-lab.github.io/NHK201807/icons/39.jpg</href>
 				</Icon>
 			</IconStyle>
 		</Style>
@@ -656,9 +656,9 @@
 			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		</Camera>
 		<Style>
-			<IconStyle>
+			<IconStyle><scale>2</scale>
 				<Icon>
-					<href>http://maps.google.com/mapfiles/kml/shapes/camera.png</href>
+					<href>https://wtnv-lab.github.io/NHK201807/icons/40.jpg</href>
 				</Icon>
 			</IconStyle>
 		</Style>
@@ -696,9 +696,9 @@
 			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		</Camera>
 		<Style>
-			<IconStyle>
+			<IconStyle><scale>2</scale>
 				<Icon>
-					<href>http://maps.google.com/mapfiles/kml/shapes/camera.png</href>
+					<href>https://wtnv-lab.github.io/NHK201807/icons/42.jpg</href>
 				</Icon>
 			</IconStyle>
 		</Style>
@@ -736,9 +736,9 @@
 			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		</Camera>
 		<Style>
-			<IconStyle>
+			<IconStyle><scale>2</scale>
 				<Icon>
-					<href>http://maps.google.com/mapfiles/kml/shapes/camera.png</href>
+					<href>https://wtnv-lab.github.io/NHK201807/icons/43.jpg</href>
 				</Icon>
 			</IconStyle>
 		</Style>
@@ -776,9 +776,9 @@
 			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		</Camera>
 		<Style>
-			<IconStyle>
+			<IconStyle><scale>2</scale>
 				<Icon>
-					<href>http://maps.google.com/mapfiles/kml/shapes/camera.png</href>
+					<href>https://wtnv-lab.github.io/NHK201807/icons/44.jpg</href>
 				</Icon>
 			</IconStyle>
 		</Style>
@@ -816,9 +816,9 @@
 			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		</Camera>
 		<Style>
-			<IconStyle>
+			<IconStyle><scale>2</scale>
 				<Icon>
-					<href>http://maps.google.com/mapfiles/kml/shapes/camera.png</href>
+					<href>https://wtnv-lab.github.io/NHK201807/icons/41.jpg</href>
 				</Icon>
 			</IconStyle>
 		</Style>
@@ -856,9 +856,9 @@
 			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		</Camera>
 		<Style>
-			<IconStyle>
+			<IconStyle><scale>2</scale>
 				<Icon>
-					<href>http://maps.google.com/mapfiles/kml/shapes/camera.png</href>
+					<href>https://wtnv-lab.github.io/NHK201807/icons/45.jpg</href>
 				</Icon>
 			</IconStyle>
 		</Style>
@@ -896,9 +896,9 @@
 			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		</Camera>
 		<Style>
-			<IconStyle>
+			<IconStyle><scale>2</scale>
 				<Icon>
-					<href>http://maps.google.com/mapfiles/kml/shapes/camera.png</href>
+					<href>https://wtnv-lab.github.io/NHK201807/icons/66.jpg</href>
 				</Icon>
 			</IconStyle>
 		</Style>
