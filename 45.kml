@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<kml xmlns="http://earth.google.com/kml/2.2">
+<Document>
+<PhotoOverlay>
+  <name>45</name>
+  <description>京都　綾部市　土砂崩れ</description>
+  <Camera>
+    <longitude>135.0</longitude>
+    <latitude>35.0</latitude>
+    <altitude>38.97</altitude>
+    <heading>0</heading>
+    <tilt>90</tilt>
+    <roll>0</roll>
+  </Camera>
+  <Style>
+    <IconStyle>
+      <Icon>
+        <href>http://maps.google.com/mapfiles/kml/shapes/camera.png</href>
+      </Icon>
+    </IconStyle>
+  </Style>
+  <Icon>
+    <href>45-tiles/45_$[level]_$[x]_$[y].jpg</href>
+  </Icon>
+  <shape>rectangle</shape>
+  <ViewVolume>
+    <near>40.0</near>
+    <leftFov>-60.0</leftFov>
+    <rightFov>60.0</rightFov>
+    <bottomFov>-44.25358</bottomFov>
+    <topFov>44.25358</topFov>
+  </ViewVolume>
+  <roll>0</roll>
+  <ImagePyramid>
+    <tileSize>256</tileSize>
+    <maxWidth>1920</maxWidth>
+    <maxHeight>1080</maxHeight>
+    <gridOrigin>upperLeft</gridOrigin>
+  </ImagePyramid>
+  <Point>
+    <coordinates>135.0,35.0</coordinates>
+  </Point>
+</PhotoOverlay>
+</Document>
+</kml>
