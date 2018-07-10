@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
 <Folder>
-	<name>NHK201807</name>
+	<name>NHK201807_1740.kml</name>
 	<open>1</open>
 	<PhotoOverlay>
-		<name>東広島市　山陽道　土砂崩れ</name>
 		<description>東広島市　山陽道　土砂崩れ</description>
 		<Camera>
 			<longitude>132.6947826800027</longitude>
@@ -16,7 +15,8 @@
 			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		</Camera>
 		<Style>
-			<IconStyle><scale>2</scale>
+			<IconStyle>
+				<scale>2.5</scale>
 				<Icon>
 					<href>https://wtnv-lab.github.io/NHK201807/icons/frame/02.jpg</href>
 				</Icon>
@@ -44,7 +44,6 @@
 		<roll>0</roll>
 	</PhotoOverlay>
 	<PhotoOverlay>
-		<name>安佐北区　街中浸水</name>
 		<description>安佐北区　街中浸水</description>
 		<Camera>
 			<longitude>132.4955162913319</longitude>
@@ -56,7 +55,8 @@
 			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		</Camera>
 		<Style>
-			<IconStyle><scale>2</scale>
+			<IconStyle>
+				<scale>2.5</scale>
 				<Icon>
 					<href>https://wtnv-lab.github.io/NHK201807/icons/frame/04.jpg</href>
 				</Icon>
@@ -84,7 +84,6 @@
 		<roll>0</roll>
 	</PhotoOverlay>
 	<PhotoOverlay>
-		<name>真備町　小田川決壊</name>
 		<description>真備町　小田川決壊</description>
 		<Camera>
 			<longitude>133.6922192562151</longitude>
@@ -96,7 +95,8 @@
 			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		</Camera>
 		<Style>
-			<IconStyle><scale>2</scale>
+			<IconStyle>
+				<scale>2.5</scale>
 				<Icon>
 					<href>https://wtnv-lab.github.io/NHK201807/icons/frame/11.jpg</href>
 				</Icon>
@@ -124,7 +124,6 @@
 		<roll>0</roll>
 	</PhotoOverlay>
 	<PhotoOverlay>
-		<name>真備町　まび記念病院</name>
 		<description>真備町　まび記念病院</description>
 		<Camera>
 			<longitude>133.7040689087872</longitude>
@@ -136,7 +135,8 @@
 			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		</Camera>
 		<Style>
-			<IconStyle><scale>2</scale>
+			<IconStyle>
+				<scale>2.5</scale>
 				<Icon>
 					<href>https://wtnv-lab.github.io/NHK201807/icons/frame/12.jpg</href>
 				</Icon>
@@ -164,7 +164,6 @@
 		<roll>0</roll>
 	</PhotoOverlay>
 	<PhotoOverlay>
-		<name>真備町　船で救出</name>
 		<description>真備町　船で救出</description>
 		<Camera>
 			<longitude>133.7097224673367</longitude>
@@ -176,7 +175,8 @@
 			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		</Camera>
 		<Style>
-			<IconStyle><scale>2</scale>
+			<IconStyle>
+				<scale>2.5</scale>
 				<Icon>
 					<href>https://wtnv-lab.github.io/NHK201807/icons/frame/12a.jpg</href>
 				</Icon>
@@ -204,7 +204,6 @@
 		<roll>0</roll>
 	</PhotoOverlay>
 	<PhotoOverlay>
-		<name>宇和島市　土砂崩れ空撮</name>
 		<description>宇和島市　土砂崩れ空撮</description>
 		<Camera>
 			<longitude>132.5266778653366</longitude>
@@ -216,7 +215,8 @@
 			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		</Camera>
 		<Style>
-			<IconStyle><scale>2</scale>
+			<IconStyle>
+				<scale>2.5</scale>
 				<Icon>
 					<href>https://wtnv-lab.github.io/NHK201807/icons/frame/68.jpg</href>
 				</Icon>
@@ -244,7 +244,6 @@
 		<roll>0</roll>
 	</PhotoOverlay>
 	<PhotoOverlay>
-		<name>宇和島市　土砂崩れ現場</name>
 		<description>宇和島市　土砂崩れ現場</description>
 		<Camera>
 			<longitude>132.5282847003911</longitude>
@@ -256,7 +255,8 @@
 			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		</Camera>
 		<Style>
-			<IconStyle><scale>2</scale>
+			<IconStyle>
+				<scale>2.5</scale>
 				<Icon>
 					<href>https://wtnv-lab.github.io/NHK201807/icons/frame/67.jpg</href>
 				</Icon>
@@ -284,7 +284,6 @@
 		<roll>0</roll>
 	</PhotoOverlay>
 	<PhotoOverlay>
-		<name>宇和島市　土砂崩れ</name>
 		<description>宇和島市　土砂崩れ</description>
 		<Camera>
 			<longitude>132.5256484768312</longitude>
@@ -296,7 +295,8 @@
 			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		</Camera>
 		<Style>
-			<IconStyle><scale>2</scale>
+			<IconStyle>
+				<scale>2.5</scale>
 				<Icon>
 					<href>https://wtnv-lab.github.io/NHK201807/icons/frame/65.jpg</href>
 				</Icon>
@@ -324,7 +324,6 @@
 		<roll>0</roll>
 	</PhotoOverlay>
 	<PhotoOverlay>
-		<name>坂町　車浸水</name>
 		<description>坂町　車浸水</description>
 		<Camera>
 			<longitude>132.5337861622029</longitude>
@@ -336,7 +335,8 @@
 			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		</Camera>
 		<Style>
-			<IconStyle><scale>2</scale>
+			<IconStyle>
+				<scale>2.5</scale>
 				<Icon>
 					<href>https://wtnv-lab.github.io/NHK201807/icons/frame/03.jpg</href>
 				</Icon>
@@ -364,7 +364,6 @@
 		<roll>0</roll>
 	</PhotoOverlay>
 	<PhotoOverlay>
-		<name>呉市　街に土石流</name>
 		<description>呉市　街に土石流</description>
 		<Camera>
 			<longitude>132.5654685252353</longitude>
@@ -376,7 +375,8 @@
 			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		</Camera>
 		<Style>
-			<IconStyle><scale>2</scale>
+			<IconStyle>
+				<scale>2.5</scale>
 				<Icon>
 					<href>https://wtnv-lab.github.io/NHK201807/icons/frame/05.jpg</href>
 				</Icon>
@@ -404,7 +404,6 @@
 		<roll>0</roll>
 	</PhotoOverlay>
 	<PhotoOverlay>
-		<name>安芸区矢野　街中土石流</name>
 		<description>安芸区矢野　街中土石流</description>
 		<Camera>
 			<longitude>132.5255308692953</longitude>
@@ -416,7 +415,8 @@
 			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		</Camera>
 		<Style>
-			<IconStyle><scale>2</scale>
+			<IconStyle>
+				<scale>2.5</scale>
 				<Icon>
 					<href>https://wtnv-lab.github.io/NHK201807/icons/frame/06.jpg</href>
 				</Icon>
@@ -444,7 +444,6 @@
 		<roll>0</roll>
 	</PhotoOverlay>
 	<PhotoOverlay>
-		<name>熊野町　土砂崩れ現場</name>
 		<description>熊野町　土砂崩れ現場</description>
 		<Camera>
 			<longitude>132.5670840476311</longitude>
@@ -456,7 +455,8 @@
 			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		</Camera>
 		<Style>
-			<IconStyle><scale>2</scale>
+			<IconStyle>
+				<scale>2.5</scale>
 				<Icon>
 					<href>https://wtnv-lab.github.io/NHK201807/icons/frame/07.jpg</href>
 				</Icon>
@@ -484,7 +484,6 @@
 		<roll>0</roll>
 	</PhotoOverlay>
 	<PhotoOverlay>
-		<name>熊野町　捜索見守る人たち</name>
 		<description>熊野町　捜索見守る人たち</description>
 		<Camera>
 			<longitude>132.567413166586</longitude>
@@ -496,7 +495,8 @@
 			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		</Camera>
 		<Style>
-			<IconStyle><scale>2</scale>
+			<IconStyle>
+				<scale>2.5</scale>
 				<Icon>
 					<href>https://wtnv-lab.github.io/NHK201807/icons/frame/08.jpg</href>
 				</Icon>
@@ -524,7 +524,6 @@
 		<roll>0</roll>
 	</PhotoOverlay>
 	<PhotoOverlay>
-		<name>三原市　車が逆立ち</name>
 		<description>三原市　車が逆立ち</description>
 		<Camera>
 			<longitude>133.0777603890061</longitude>
@@ -536,7 +535,8 @@
 			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		</Camera>
 		<Style>
-			<IconStyle><scale>2</scale>
+			<IconStyle>
+				<scale>2.5</scale>
 				<Icon>
 					<href>https://wtnv-lab.github.io/NHK201807/icons/frame/09.jpg</href>
 				</Icon>
@@ -564,7 +564,6 @@
 		<roll>0</roll>
 	</PhotoOverlay>
 	<PhotoOverlay>
-		<name>唐津市　筑肥線脱線</name>
 		<description>唐津市　筑肥線脱線</description>
 		<Camera>
 			<longitude>130.0416855193555</longitude>
@@ -576,7 +575,8 @@
 			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		</Camera>
 		<Style>
-			<IconStyle><scale>2</scale>
+			<IconStyle>
+				<scale>2.5</scale>
 				<Icon>
 					<href>https://wtnv-lab.github.io/NHK201807/icons/frame/38.jpg</href>
 				</Icon>
@@ -604,7 +604,6 @@
 		<roll>0</roll>
 	</PhotoOverlay>
 	<PhotoOverlay>
-		<name>大月町捜索現場</name>
 		<description>大月町捜索現場</description>
 		<Camera>
 			<longitude>132.7067942793257</longitude>
@@ -616,7 +615,8 @@
 			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		</Camera>
 		<Style>
-			<IconStyle><scale>2</scale>
+			<IconStyle>
+				<scale>2.5</scale>
 				<Icon>
 					<href>https://wtnv-lab.github.io/NHK201807/icons/frame/39.jpg</href>
 				</Icon>
@@ -644,7 +644,6 @@
 		<roll>0</roll>
 	</PhotoOverlay>
 	<PhotoOverlay>
-		<name>関市　流される車</name>
 		<description>関市　流される車</description>
 		<Camera>
 			<longitude>136.9149042779515</longitude>
@@ -656,7 +655,8 @@
 			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		</Camera>
 		<Style>
-			<IconStyle><scale>2</scale>
+			<IconStyle>
+				<scale>2.5</scale>
 				<Icon>
 					<href>https://wtnv-lab.github.io/NHK201807/icons/frame/40.jpg</href>
 				</Icon>
@@ -684,7 +684,6 @@
 		<roll>0</roll>
 	</PhotoOverlay>
 	<PhotoOverlay>
-		<name>鹿児島市古里町住宅に土砂</name>
 		<description>鹿児島市古里町住宅に土砂</description>
 		<Camera>
 			<longitude>130.6510679322103</longitude>
@@ -696,7 +695,8 @@
 			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		</Camera>
 		<Style>
-			<IconStyle><scale>2</scale>
+			<IconStyle>
+				<scale>2.5</scale>
 				<Icon>
 					<href>https://wtnv-lab.github.io/NHK201807/icons/frame/42.jpg</href>
 				</Icon>
@@ -724,7 +724,6 @@
 		<roll>0</roll>
 	</PhotoOverlay>
 	<PhotoOverlay>
-		<name>久留米市冠水する街</name>
 		<description>久留米市冠水する街</description>
 		<Camera>
 			<longitude>130.4956505707936</longitude>
@@ -736,7 +735,8 @@
 			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		</Camera>
 		<Style>
-			<IconStyle><scale>2</scale>
+			<IconStyle>
+				<scale>2.5</scale>
 				<Icon>
 					<href>https://wtnv-lab.github.io/NHK201807/icons/frame/43.jpg</href>
 				</Icon>
@@ -764,7 +764,6 @@
 		<roll>0</roll>
 	</PhotoOverlay>
 	<PhotoOverlay>
-		<name>岩国市　土砂崩れ</name>
 		<description>岩国市　土砂崩れ</description>
 		<Camera>
 			<longitude>132.0349695969445</longitude>
@@ -776,7 +775,8 @@
 			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		</Camera>
 		<Style>
-			<IconStyle><scale>2</scale>
+			<IconStyle>
+				<scale>2.5</scale>
 				<Icon>
 					<href>https://wtnv-lab.github.io/NHK201807/icons/frame/44.jpg</href>
 				</Icon>
@@ -804,7 +804,6 @@
 		<roll>0</roll>
 	</PhotoOverlay>
 	<PhotoOverlay>
-		<name>宍粟市濁流が家の近くに</name>
 		<description>宍粟市濁流が家の近くに</description>
 		<Camera>
 			<longitude>134.5493124447914</longitude>
@@ -816,7 +815,8 @@
 			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		</Camera>
 		<Style>
-			<IconStyle><scale>2</scale>
+			<IconStyle>
+				<scale>2.5</scale>
 				<Icon>
 					<href>https://wtnv-lab.github.io/NHK201807/icons/frame/41.jpg</href>
 				</Icon>
@@ -844,7 +844,6 @@
 		<roll>0</roll>
 	</PhotoOverlay>
 	<PhotoOverlay>
-		<name>京都　綾部市　土砂崩れ</name>
 		<description>京都　綾部市　土砂崩れ</description>
 		<Camera>
 			<longitude>135.2559831430562</longitude>
@@ -856,7 +855,8 @@
 			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		</Camera>
 		<Style>
-			<IconStyle><scale>2</scale>
+			<IconStyle>
+				<scale>2.5</scale>
 				<Icon>
 					<href>https://wtnv-lab.github.io/NHK201807/icons/frame/45.jpg</href>
 				</Icon>
@@ -884,7 +884,6 @@
 		<roll>0</roll>
 	</PhotoOverlay>
 	<PhotoOverlay>
-		<name>大洲市1階が浸水した住宅</name>
 		<description>大洲市1階が浸水した住宅</description>
 		<Camera>
 			<longitude>132.5444861120466</longitude>
@@ -896,7 +895,8 @@
 			<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
 		</Camera>
 		<Style>
-			<IconStyle><scale>2</scale>
+			<IconStyle>
+				<scale>2.5</scale>
 				<Icon>
 					<href>https://wtnv-lab.github.io/NHK201807/icons/frame/66.jpg</href>
 				</Icon>
